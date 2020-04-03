@@ -1,4 +1,7 @@
 /*
+Tato aplikacia bola urobena v marci 2020 pre studenta pod menom
+ Martin Repa, ktory za nu nezaplatil .
+
 Autobazar
 
 Hlavny program
